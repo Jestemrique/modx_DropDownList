@@ -5,5 +5,5 @@ Extracted from:
 http://blog.arvixe.com/dynamic-drop-down-lists-in-the-front-end-using-a-tv-with-modx/
 
 By Bob Ray.
-**USAGE
+##USAGE
 [[ShowDropdown? &items=`[[*DropdownOptions]]` &multiple=`0`]]
